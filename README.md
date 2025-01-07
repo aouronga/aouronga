@@ -3,7 +3,7 @@
 ---
 
 ### About Me 👨‍💻  
-Hi, I'm **Aourongajab Abir** 👋, a passionate **Software Engineer** with expertise in building scalable web applications and efficient systems. I enjoy solving complex problems and constantly learning new technologies.  
+Hi, I'm **Aourongajab Abir** 👋, a passionate **Full-Stack Software Engineer** with expertise in building scalable web applications and efficient systems. I enjoy solving complex problems and constantly learning new technologies.  
 
 ### What I Do 🌟  
 - 🚀 Develop modern web applications using **Laravel**, **Filament**, **Flask**, **Vue.js**, **Pinia**, **Tailwind** 
