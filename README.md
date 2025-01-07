@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**aouronga/aouronga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 👨‍💻  
+Hi, I'm **Aourongajab Abir** 👋, a passionate **Software Engineer** with expertise in building scalable web applications and efficient systems. I enjoy solving complex problems and constantly learning new technologies.  
+
+### What I Do 🌟  
+- 🚀 Develop modern web applications using **Laravel**, **Filament**, **Flask**, **Vue.js**, **Pinia**, **Tailwind** 
+- 🛠️ Build containerized applications with **Docker**  
+- 📡 Work on **Subscriber Management System for DVB-C**, **CAS**, **IPTV**, **FFmpeg**, **AWS (EC2, S3 Storage...)**...
+- 🌐 Optimize high-traffic web systems using **Nginx**, **Redis Cache**, **Clustered MySQL**, **RAID-0, 1, 5, 10**, 
+- 🖥️ Share knowledge through my blog on **VPS** and **Linux tips**  
+
+### Tools & Tech 🛠️  
+- Languages: **PHP**, **Python**, **JavaScript**, **Shell Script**  
+- Frameworks: **Laravel**, **Filament**, **CodeIgniter**, **Flask**, **Vue.js**  
+- DevOps: **Docker**, **Nginx**, **Load Balancing**, **Reverse Proxy**, **DNS Management**
+- Databases: **MySQL**, **PostgreSQL**, **Microsoft SQL**, **SQLite**  
+
+### Let's Connect 🌍  
+💻 Check out my projects and feel free to collaborate!  
+--- 
