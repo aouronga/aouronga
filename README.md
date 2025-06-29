@@ -84,7 +84,7 @@ I work at the intersection of software, streaming, and infrastructure — delive
 
 ## 📬 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aourongajab-abir)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aouronga)
 - 🐙 [GitHub](https://github.com/aouronga)
 
 ---
